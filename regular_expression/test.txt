@@ -1,0 +1,15 @@
+apple 100
+banana 200
+cat 300
+dog 400
+my_email_123@qq.com
+test_456@gmail.com
+user_789@163.com
+IP: 192.168.1.1
+IP: 10.0.0.1
+phone: 13812345678
+phone: 13998765432
+abc123ABC!@#$%^&*()
+hello_world 999
+2026-04-10 正则测试
+2025-08-15 旧日期
