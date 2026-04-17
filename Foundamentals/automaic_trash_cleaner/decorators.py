@@ -5,3 +5,14 @@ def safe_confirm(func):
             return
         return func(*args,**kwargs)
     return wrapper
+
+def count_deleter(func):
+    count = 0
+
+    def wrapper(*args,**kwargs):
+        nonlocal count
+        result = func(*args,**kwargs)
+        count += 1
+        print(f"累计已删除：{count} 个文件")
+        return result
+    return wrapper

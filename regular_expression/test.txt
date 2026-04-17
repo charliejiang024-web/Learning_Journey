@@ -13,3 +13,6 @@ abc123ABC!@#$%^&*()
 hello_world 999
 2026-04-10 正则测试
 2025-08-15 旧日期
+http://www.abc.com
+http://www.abc.com.cn
+https://www.abc.com
